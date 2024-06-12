@@ -1,6 +1,9 @@
 # Tennis-game
 Single player tennis game made typically using JavaScript. The first 9one who scores 5 points (be it the player or computer) wins the game.
 
+## Live Demo
+[Click Here](https://project-tennisgame.netlify.app/)
+
 ## UI
 ![Tennis Game UI](https://i.ibb.co/kDH9NTF/tennis-Game.png)
 
